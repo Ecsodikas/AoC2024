@@ -1,0 +1,8 @@
+(executable
+ (name aoc)
+ (public_name aoc))
+
+(env
+ (dev
+  (flags
+   (:standard -w -37))))
